@@ -1,6 +1,7 @@
 {
     "name": "git-branch-deleter",
     "version": "0.1.0",
+    "type": "module",
     "dependencies": {
         "chalk": "^5.1.2",
         "commander": "^9.4.1",
